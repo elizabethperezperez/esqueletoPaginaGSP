@@ -1,0 +1,33 @@
+.intro{
+    background-image:url("/web/images/intro.gif");
+    background-size: cover;
+}
+.dark{
+    background-color: black;
+    color: aliceblue;
+    background-size: cover;
+}
+
+cite.lema{
+    color: antiquewhite;
+    font-size: 2vw;
+}
+a.button{
+    size: 5vw;
+    color: #a9a956;
+
+
+}
+.b{ 
+    display: block;
+    margin: 0 auto;
+    font-size: 2vw;
+}
+
+
+.contenedor {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
